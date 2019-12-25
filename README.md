@@ -8,7 +8,7 @@ A joyful, frivolous project by [George Mandis](https://george.mand.is)
 
 ## Install
 
-- [Download the source](https://github.com/davidhcefx/konami-js/archive/master.zip) and include `konami.js` in your project
+- [Download this source](https://github.com/davidhcefx/konami-js/archive/master.zip) and include `konami.js` in your project
 
 ## Future Improvements
 
