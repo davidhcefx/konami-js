@@ -8,9 +8,7 @@ A joyful, frivolous project by [George Mandis](https://george.mand.is)
 
 ## Install
 
-- [Download the latest source](https://github.com/snaptortoise/konami-js/archive/master.zip) and include `konami.js` in your project
-- Install with [npm](https://www.npmjs.com): `npm install konami`
-- Install with [bower](https://bower.io): `bower install konami-js`
+- [Download the source](https://github.com/davidhcefx/konami-js/archive/master.zip) and include `konami.js` in your project
 
 ## Future Improvements
 
